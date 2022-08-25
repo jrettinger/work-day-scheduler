@@ -9,4 +9,4 @@ This is a simple calendar application that allows a user to save events for each
 
 
 #### Link to My Project
-<a href="https://jrettinger.github.io/password-generator/" target= blank>Link to my project</a>
+<a href="https://jrettinger.github.io/work-day-scheduler/" target= blank>Link to my project</a>
