@@ -1,7 +1,7 @@
 const LS_KEY = "schedules";
 
 function updateDateInfo() {
-  let today = moment().format("dddd, MMMM Do");
+  let today = moment().format("MMMM Do YYYY");
   $("#currentDay").text(today);
 }
 
